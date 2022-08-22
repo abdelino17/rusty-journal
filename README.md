@@ -2,7 +2,7 @@
 
 A command-line program to manage to-do list items in rust.
 
-This project is the final program of the [Microsoft Rust Course](https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps/).
+This project is the final program of the [Microsoft Introduction Rust Course](https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps/).
 
 ### Features of the program
 
